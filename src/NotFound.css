@@ -1,0 +1,7 @@
+.image-container {
+  background-image: url("https://techzillo.com/wp-content/uploads/2018/10/imageedit_2_8168072629.png");
+  background-size: cover;
+  position: relative;
+  height: 700px;
+  width: 100%;
+}
